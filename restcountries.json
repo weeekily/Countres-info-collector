@@ -1,0 +1,2252 @@
+[
+    {
+        "name": "Ivory Coast",
+        "official": "Republic of Côte d'Ivoire",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "French",
+        "capital": "Yamoussoukro",
+        "population": 31719275
+    },
+    {
+        "name": "Italy",
+        "official": "Italian Republic",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Italian, Catalan",
+        "capital": "Rome",
+        "population": 58927633
+    },
+    {
+        "name": "Kyrgyzstan",
+        "official": "Kyrgyz Republic",
+        "currency_name": "Kyrgyzstani som",
+        "currency_symbol": "с",
+        "languages": "Kyrgyz, Russian",
+        "capital": "Bishkek",
+        "population": 7281800
+    },
+    {
+        "name": "Papua New Guinea",
+        "official": "Independent State of Papua New Guinea",
+        "currency_name": "Papua New Guinean kina",
+        "currency_symbol": "K",
+        "languages": "English, Hiri Motu, Tok Pisin",
+        "capital": "Port Moresby",
+        "population": 11781559
+    },
+    {
+        "name": "Fiji",
+        "official": "Republic of Fiji",
+        "currency_name": "Fijian dollar",
+        "currency_symbol": "$",
+        "languages": "English, Fijian, Fiji Hindi",
+        "capital": "Suva",
+        "population": 900869
+    },
+    {
+        "name": "United Arab Emirates",
+        "official": "United Arab Emirates",
+        "currency_name": "United Arab Emirates dirham",
+        "currency_symbol": "د.إ",
+        "languages": "Arabic",
+        "capital": "Abu Dhabi",
+        "population": 11294243
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "official": "Federation of Saint Christopher and Nevis",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Basseterre",
+        "population": 51320
+    },
+    {
+        "name": "French Guiana",
+        "official": "Guiana",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "French",
+        "capital": "Cayenne",
+        "population": 292354
+    },
+    {
+        "name": "Tanzania",
+        "official": "United Republic of Tanzania",
+        "currency_name": "Tanzanian shilling",
+        "currency_symbol": "Sh",
+        "languages": "English, Swahili",
+        "capital": "Dodoma",
+        "population": 68153004
+    },
+    {
+        "name": "Angola",
+        "official": "Republic of Angola",
+        "currency_name": "Angolan kwanza",
+        "currency_symbol": "Kz",
+        "languages": "Portuguese",
+        "capital": "Luanda",
+        "population": 36170961
+    },
+    {
+        "name": "Togo",
+        "official": "Togolese Republic",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "French",
+        "capital": "Lomé",
+        "population": 8095498
+    },
+    {
+        "name": "Finland",
+        "official": "Republic of Finland",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Finnish, Swedish",
+        "capital": "Helsinki",
+        "population": 5650325
+    },
+    {
+        "name": "Malawi",
+        "official": "Republic of Malawi",
+        "currency_name": "Malawian kwacha",
+        "currency_symbol": "MK",
+        "languages": "English, Chewa",
+        "capital": "Lilongwe",
+        "population": 20734262
+    },
+    {
+        "name": "Mali",
+        "official": "Republic of Mali",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "French",
+        "capital": "Bamako",
+        "population": 22395489
+    },
+    {
+        "name": "Uzbekistan",
+        "official": "Republic of Uzbekistan",
+        "currency_name": "Uzbekistani soʻm",
+        "currency_symbol": "so'm",
+        "languages": "Russian, Uzbek",
+        "capital": "Tashkent",
+        "population": 37859698
+    },
+    {
+        "name": "Senegal",
+        "official": "Republic of Senegal",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "French",
+        "capital": "Dakar",
+        "population": 18593258
+    },
+    {
+        "name": "Uganda",
+        "official": "Republic of Uganda",
+        "currency_name": "Ugandan shilling",
+        "currency_symbol": "Sh",
+        "languages": "English, Swahili",
+        "capital": "Kampala",
+        "population": 45905417
+    },
+    {
+        "name": "Djibouti",
+        "official": "Republic of Djibouti",
+        "currency_name": "Djiboutian franc",
+        "currency_symbol": "Fr",
+        "languages": "Arabic, French",
+        "capital": "Djibouti",
+        "population": 1066809
+    },
+    {
+        "name": "South Sudan",
+        "official": "Republic of South Sudan",
+        "currency_name": "South Sudanese pound",
+        "currency_symbol": "£",
+        "languages": "English",
+        "capital": "Juba",
+        "population": 15786898
+    },
+    {
+        "name": "Jersey",
+        "official": "Bailiwick of Jersey",
+        "currency_name": "British pound",
+        "currency_symbol": "£",
+        "languages": "English, French, Jèrriais",
+        "capital": "Saint Helier",
+        "population": 103267
+    },
+    {
+        "name": "Tuvalu",
+        "official": "Tuvalu",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "languages": "English, Tuvaluan",
+        "capital": "Funafuti",
+        "population": 10643
+    },
+    {
+        "name": "Japan",
+        "official": "Japan",
+        "currency_name": "Japanese yen",
+        "currency_symbol": "¥",
+        "languages": "Japanese",
+        "capital": "Tokyo",
+        "population": 123210000
+    },
+    {
+        "name": "Oman",
+        "official": "Sultanate of Oman",
+        "currency_name": "Omani rial",
+        "currency_symbol": "ر.ع.",
+        "languages": "Arabic",
+        "capital": "Muscat",
+        "population": 5343630
+    },
+    {
+        "name": "Belgium",
+        "official": "Kingdom of Belgium",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "German, French, Dutch",
+        "capital": "Brussels",
+        "population": 11825551
+    },
+    {
+        "name": "Saint Martin",
+        "official": "Saint Martin",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "French",
+        "capital": "Marigot",
+        "population": 31496
+    },
+    {
+        "name": "Mayotte",
+        "official": "Department of Mayotte",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "French",
+        "capital": "Mamoudzou",
+        "population": 320901
+    },
+    {
+        "name": "France",
+        "official": "French Republic",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "French",
+        "capital": "Paris",
+        "population": 66351959
+    },
+    {
+        "name": "Bulgaria",
+        "official": "Republic of Bulgaria",
+        "currency_name": "Bulgarian lev",
+        "currency_symbol": "лв",
+        "languages": "Bulgarian",
+        "capital": "Sofia",
+        "population": 6437360
+    },
+    {
+        "name": "Cyprus",
+        "official": "Republic of Cyprus",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Greek, Turkish",
+        "capital": "Nicosia",
+        "population": 1442614
+    },
+    {
+        "name": "South Korea",
+        "official": "Republic of Korea",
+        "currency_name": "South Korean won",
+        "currency_symbol": "₩",
+        "languages": "Korean",
+        "capital": "Seoul",
+        "population": 51159889
+    },
+    {
+        "name": "Mexico",
+        "official": "United Mexican States",
+        "currency_name": "Mexican peso",
+        "currency_symbol": "$",
+        "languages": "Spanish",
+        "capital": "Mexico City",
+        "population": 130575786
+    },
+    {
+        "name": "North Macedonia",
+        "official": "Republic of North Macedonia",
+        "currency_name": "denar",
+        "currency_symbol": "den",
+        "languages": "Macedonian",
+        "capital": "Skopje",
+        "population": 1822612
+    },
+    {
+        "name": "Guyana",
+        "official": "Co-operative Republic of Guyana",
+        "currency_name": "Guyanese dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Georgetown",
+        "population": 772975
+    },
+    {
+        "name": "Kosovo",
+        "official": "Republic of Kosovo",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Albanian, Serbian",
+        "capital": "Pristina",
+        "population": 1585566
+    },
+    {
+        "name": "Morocco",
+        "official": "Kingdom of Morocco",
+        "currency_name": "Moroccan dirham",
+        "currency_symbol": "د.م.",
+        "languages": "Arabic, Berber",
+        "capital": "Rabat",
+        "population": 36828330
+    },
+    {
+        "name": "Gibraltar",
+        "official": "Gibraltar",
+        "currency_name": "Gibraltar pound",
+        "currency_symbol": "£",
+        "languages": "English",
+        "capital": "Gibraltar",
+        "population": 38000
+    },
+    {
+        "name": "Western Sahara",
+        "official": "Sahrawi Arab Democratic Republic",
+        "currency_name": "Algerian dinar",
+        "currency_symbol": "دج",
+        "languages": "Berber, Hassaniya, Spanish",
+        "capital": "El Aaiún",
+        "population": 600904
+    },
+    {
+        "name": "Andorra",
+        "official": "Principality of Andorra",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Catalan",
+        "capital": "Andorra la Vella",
+        "population": 88406
+    },
+    {
+        "name": "Palau",
+        "official": "Republic of Palau",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English, Palauan",
+        "capital": "Ngerulmud",
+        "population": 16733
+    },
+    {
+        "name": "Guinea",
+        "official": "Republic of Guinea",
+        "currency_name": "Guinean franc",
+        "currency_symbol": "Fr",
+        "languages": "French",
+        "capital": "Conakry",
+        "population": 14363931
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "official": "Turks and Caicos Islands",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Cockburn Town",
+        "population": 50828
+    },
+    {
+        "name": "Saudi Arabia",
+        "official": "Kingdom of Saudi Arabia",
+        "currency_name": "Saudi riyal",
+        "currency_symbol": "ر.س",
+        "languages": "Arabic",
+        "capital": "Riyadh",
+        "population": 35300280
+    },
+    {
+        "name": "Botswana",
+        "official": "Republic of Botswana",
+        "currency_name": "Botswana pula",
+        "currency_symbol": "P",
+        "languages": "English, Tswana",
+        "capital": "Gaborone",
+        "population": 2359609
+    },
+    {
+        "name": "Comoros",
+        "official": "Union of the Comoros",
+        "currency_name": "Comorian franc",
+        "currency_symbol": "Fr",
+        "languages": "Arabic, French, Comorian",
+        "capital": "Moroni",
+        "population": 919901
+    },
+    {
+        "name": "Belize",
+        "official": "Belize",
+        "currency_name": "Belize dollar",
+        "currency_symbol": "$",
+        "languages": "Belizean Creole, English, Spanish",
+        "capital": "Belmopan",
+        "population": 417634
+    },
+    {
+        "name": "Cambodia",
+        "official": "Kingdom of Cambodia",
+        "currency_name": "Cambodian riel",
+        "currency_symbol": "៛",
+        "languages": "Khmer",
+        "capital": "Phnom Penh",
+        "population": 17577760
+    },
+    {
+        "name": "Saint Lucia",
+        "official": "Saint Lucia",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Castries",
+        "population": 184100
+    },
+    {
+        "name": "Mauritania",
+        "official": "Islamic Republic of Mauritania",
+        "currency_name": "Mauritanian ouguiya",
+        "currency_symbol": "UM",
+        "languages": "Arabic",
+        "capital": "Nouakchott",
+        "population": 4927532
+    },
+    {
+        "name": "Jamaica",
+        "official": "Jamaica",
+        "currency_name": "Jamaican dollar",
+        "currency_symbol": "$",
+        "languages": "English, Jamaican Patois",
+        "capital": "Kingston",
+        "population": 2825544
+    },
+    {
+        "name": "Cape Verde",
+        "official": "Republic of Cabo Verde",
+        "currency_name": "Cape Verdean escudo",
+        "currency_symbol": "Esc",
+        "languages": "Portuguese",
+        "capital": "Praia",
+        "population": 491233
+    },
+    {
+        "name": "Marshall Islands",
+        "official": "Republic of the Marshall Islands",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English, Marshallese",
+        "capital": "Majuro",
+        "population": 42418
+    },
+    {
+        "name": "Namibia",
+        "official": "Republic of Namibia",
+        "currency_name": "Namibian dollar",
+        "currency_symbol": "$",
+        "languages": "Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana",
+        "capital": "Windhoek",
+        "population": 3022401
+    },
+    {
+        "name": "Iran",
+        "official": "Islamic Republic of Iran",
+        "currency_name": "Iranian rial",
+        "currency_symbol": "﷼",
+        "languages": "Persian (Farsi)",
+        "capital": "Tehran",
+        "population": 85961000
+    },
+    {
+        "name": "Wallis and Futuna",
+        "official": "Territory of the Wallis and Futuna Islands",
+        "currency_name": "CFP franc",
+        "currency_symbol": "₣",
+        "languages": "French",
+        "capital": "Mata-Utu",
+        "population": 11620
+    },
+    {
+        "name": "Azerbaijan",
+        "official": "Republic of Azerbaijan",
+        "currency_name": "Azerbaijani manat",
+        "currency_symbol": "₼",
+        "languages": "Azerbaijani",
+        "capital": "Baku",
+        "population": 10241722
+    },
+    {
+        "name": "Niger",
+        "official": "Republic of Niger",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "French",
+        "capital": "Niamey",
+        "population": 26312034
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "official": "Heard Island and McDonald Islands",
+        "currency_name": "N/A",
+        "currency_symbol": "N/A",
+        "languages": "English",
+        "capital": "N/A",
+        "population": 0
+    },
+    {
+        "name": "Laos",
+        "official": "Lao People's Democratic Republic",
+        "currency_name": "Lao kip",
+        "currency_symbol": "₭",
+        "languages": "Lao",
+        "capital": "Vientiane",
+        "population": 7647000
+    },
+    {
+        "name": "Burkina Faso",
+        "official": "Burkina Faso",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "French",
+        "capital": "Ouagadougou",
+        "population": 24070553
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "official": "Territory of the Cocos (Keeling) Islands",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "West Island",
+        "population": 593
+    },
+    {
+        "name": "Luxembourg",
+        "official": "Grand Duchy of Luxembourg",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "German, French, Luxembourgish",
+        "capital": "Luxembourg",
+        "population": 681973
+    },
+    {
+        "name": "Indonesia",
+        "official": "Republic of Indonesia",
+        "currency_name": "Indonesian rupiah",
+        "currency_symbol": "Rp",
+        "languages": "Indonesian",
+        "capital": "Jakarta",
+        "population": 284438782
+    },
+    {
+        "name": "Lebanon",
+        "official": "Lebanese Republic",
+        "currency_name": "Lebanese pound",
+        "currency_symbol": "ل.ل",
+        "languages": "Arabic, French",
+        "capital": "Beirut",
+        "population": 5490000
+    },
+    {
+        "name": "Turkey",
+        "official": "Republic of Turkey",
+        "currency_name": "Turkish lira",
+        "currency_symbol": "₺",
+        "languages": "Turkish",
+        "capital": "Ankara",
+        "population": 85664944
+    },
+    {
+        "name": "Timor-Leste",
+        "official": "Democratic Republic of Timor-Leste",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "Portuguese, Tetum",
+        "capital": "Dili",
+        "population": 1391221
+    },
+    {
+        "name": "Zimbabwe",
+        "official": "Republic of Zimbabwe",
+        "currency_name": "Zimbabwean dollar",
+        "currency_symbol": "$",
+        "languages": "Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Chewa, Shona, Sotho, Tonga, Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language",
+        "capital": "Harare",
+        "population": 17073087
+    },
+    {
+        "name": "South Africa",
+        "official": "Republic of South Africa",
+        "currency_name": "South African rand",
+        "currency_symbol": "R",
+        "languages": "Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu",
+        "capital": "Pretoria",
+        "population": 63100945
+    },
+    {
+        "name": "Armenia",
+        "official": "Republic of Armenia",
+        "currency_name": "Armenian dram",
+        "currency_symbol": "֏",
+        "languages": "Armenian",
+        "capital": "Yerevan",
+        "population": 3076200
+    },
+    {
+        "name": "Ireland",
+        "official": "Republic of Ireland",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "English, Irish",
+        "capital": "Dublin",
+        "population": 5458600
+    },
+    {
+        "name": "Norway",
+        "official": "Kingdom of Norway",
+        "currency_name": "Norwegian krone",
+        "currency_symbol": "kr",
+        "languages": "Norwegian Nynorsk, Norwegian Bokmål, Sami",
+        "capital": "Oslo",
+        "population": 5606944
+    },
+    {
+        "name": "Kenya",
+        "official": "Republic of Kenya",
+        "currency_name": "Kenyan shilling",
+        "currency_symbol": "Sh",
+        "languages": "English, Swahili",
+        "capital": "Nairobi",
+        "population": 53330978
+    },
+    {
+        "name": "North Korea",
+        "official": "Democratic People's Republic of Korea",
+        "currency_name": "North Korean won",
+        "currency_symbol": "₩",
+        "languages": "Korean",
+        "capital": "Pyongyang",
+        "population": 25950000
+    },
+    {
+        "name": "Afghanistan",
+        "official": "Islamic Republic of Afghanistan",
+        "currency_name": "Afghan afghani",
+        "currency_symbol": "؋",
+        "languages": "Dari, Pashto, Turkmen",
+        "capital": "Kabul",
+        "population": 43844000
+    },
+    {
+        "name": "Bermuda",
+        "official": "Bermuda",
+        "currency_name": "Bermudian dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Hamilton",
+        "population": 64055
+    },
+    {
+        "name": "Spain",
+        "official": "Kingdom of Spain",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Spanish, Catalan, Basque, Galician",
+        "capital": "Madrid",
+        "population": 49315949
+    },
+    {
+        "name": "Netherlands",
+        "official": "Kingdom of the Netherlands",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Dutch",
+        "capital": "Amsterdam",
+        "population": 18100436
+    },
+    {
+        "name": "Nicaragua",
+        "official": "Republic of Nicaragua",
+        "currency_name": "Nicaraguan córdoba",
+        "currency_symbol": "C$",
+        "languages": "Spanish",
+        "capital": "Managua",
+        "population": 6803886
+    },
+    {
+        "name": "Lesotho",
+        "official": "Kingdom of Lesotho",
+        "currency_name": "Lesotho loti",
+        "currency_symbol": "L",
+        "languages": "English, Sotho",
+        "capital": "Maseru",
+        "population": 2116427
+    },
+    {
+        "name": "Egypt",
+        "official": "Arab Republic of Egypt",
+        "currency_name": "Egyptian pound",
+        "currency_symbol": "£",
+        "languages": "Arabic",
+        "capital": "Cairo",
+        "population": 107271260
+    },
+    {
+        "name": "Gambia",
+        "official": "Republic of the Gambia",
+        "currency_name": "dalasi",
+        "currency_symbol": "D",
+        "languages": "English",
+        "capital": "Banjul",
+        "population": 2422712
+    },
+    {
+        "name": "Brazil",
+        "official": "Federative Republic of Brazil",
+        "currency_name": "Brazilian real",
+        "currency_symbol": "R$",
+        "languages": "Portuguese",
+        "capital": "Brasília",
+        "population": 213421037
+    },
+    {
+        "name": "Australia",
+        "official": "Commonwealth of Australia",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Canberra",
+        "population": 27536874
+    },
+    {
+        "name": "Bouvet Island",
+        "official": "Bouvet Island",
+        "currency_name": "N/A",
+        "currency_symbol": "N/A",
+        "languages": "Norwegian",
+        "capital": "N/A",
+        "population": 0
+    },
+    {
+        "name": "Pitcairn Islands",
+        "official": "Pitcairn Group of Islands",
+        "currency_name": "New Zealand dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Adamstown",
+        "population": 35
+    },
+    {
+        "name": "Barbados",
+        "official": "Barbados",
+        "currency_name": "Barbadian dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Bridgetown",
+        "population": 267800
+    },
+    {
+        "name": "Madagascar",
+        "official": "Republic of Madagascar",
+        "currency_name": "Malagasy ariary",
+        "currency_symbol": "Ar",
+        "languages": "French, Malagasy",
+        "capital": "Antananarivo",
+        "population": 31727042
+    },
+    {
+        "name": "United Kingdom",
+        "official": "United Kingdom of Great Britain and Northern Ireland",
+        "currency_name": "British pound",
+        "currency_symbol": "£",
+        "languages": "English",
+        "capital": "London",
+        "population": 69281437
+    },
+    {
+        "name": "Portugal",
+        "official": "Portuguese Republic",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Portuguese",
+        "capital": "Lisbon",
+        "population": 10749635
+    },
+    {
+        "name": "Greenland",
+        "official": "Greenland",
+        "currency_name": "krone",
+        "currency_symbol": "kr.",
+        "languages": "Greenlandic",
+        "capital": "Nuuk",
+        "population": 56542
+    },
+    {
+        "name": "American Samoa",
+        "official": "American Samoa",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English, Samoan",
+        "capital": "Pago Pago",
+        "population": 49710
+    },
+    {
+        "name": "South Georgia",
+        "official": "South Georgia and the South Sandwich Islands",
+        "currency_name": "British pound",
+        "currency_symbol": "£",
+        "languages": "English",
+        "capital": "King Edward Point",
+        "population": 0
+    },
+    {
+        "name": "Turkmenistan",
+        "official": "Turkmenistan",
+        "currency_name": "Turkmenistan manat",
+        "currency_symbol": "m",
+        "languages": "Russian, Turkmen",
+        "capital": "Ashgabat",
+        "population": 7057841
+    },
+    {
+        "name": "Guadeloupe",
+        "official": "Guadeloupe",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "French",
+        "capital": "Basse-Terre",
+        "population": 378561
+    },
+    {
+        "name": "Dominica",
+        "official": "Commonwealth of Dominica",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Roseau",
+        "population": 67408
+    },
+    {
+        "name": "Solomon Islands",
+        "official": "Solomon Islands",
+        "currency_name": "Solomon Islands dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Honiara",
+        "population": 750325
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "official": "Saint Pierre and Miquelon",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "French",
+        "capital": "Saint-Pierre",
+        "population": 5819
+    },
+    {
+        "name": "Rwanda",
+        "official": "Republic of Rwanda",
+        "currency_name": "Rwandan franc",
+        "currency_symbol": "Fr",
+        "languages": "English, French, Kinyarwanda",
+        "capital": "Kigali",
+        "population": 14104969
+    },
+    {
+        "name": "Norfolk Island",
+        "official": "Territory of Norfolk Island",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "languages": "English, Norfuk",
+        "capital": "Kingston",
+        "population": 2188
+    },
+    {
+        "name": "Panama",
+        "official": "Republic of Panama",
+        "currency_name": "Panamanian balboa",
+        "currency_symbol": "B/.",
+        "languages": "Spanish",
+        "capital": "Panama City",
+        "population": 4064780
+    },
+    {
+        "name": "Bahamas",
+        "official": "Commonwealth of the Bahamas",
+        "currency_name": "Bahamian dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Nassau",
+        "population": 398165
+    },
+    {
+        "name": "Tokelau",
+        "official": "Tokelau",
+        "currency_name": "New Zealand dollar",
+        "currency_symbol": "$",
+        "languages": "English, Samoan, Tokelauan",
+        "capital": "Fakaofo",
+        "population": 2608
+    },
+    {
+        "name": "Montenegro",
+        "official": "Montenegro",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Montenegrin",
+        "capital": "Podgorica",
+        "population": 623327
+    },
+    {
+        "name": "Åland Islands",
+        "official": "Åland Islands",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Swedish",
+        "capital": "Mariehamn",
+        "population": 30654
+    },
+    {
+        "name": "Niue",
+        "official": "Niue",
+        "currency_name": "New Zealand dollar",
+        "currency_symbol": "$",
+        "languages": "English, Niuean",
+        "capital": "Alofi",
+        "population": 1681
+    },
+    {
+        "name": "Argentina",
+        "official": "Argentine Republic",
+        "currency_name": "Argentine peso",
+        "currency_symbol": "$",
+        "languages": "Guaraní, Spanish",
+        "capital": "Buenos Aires",
+        "population": 46735004
+    },
+    {
+        "name": "Cuba",
+        "official": "Republic of Cuba",
+        "currency_name": "Cuban convertible peso",
+        "currency_symbol": "$",
+        "languages": "Spanish",
+        "capital": "Havana",
+        "population": 9748007
+    },
+    {
+        "name": "Cayman Islands",
+        "official": "Cayman Islands",
+        "currency_name": "Cayman Islands dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "George Town",
+        "population": 84738
+    },
+    {
+        "name": "Kazakhstan",
+        "official": "Republic of Kazakhstan",
+        "currency_name": "Kazakhstani tenge",
+        "currency_symbol": "₸",
+        "languages": "Kazakh, Russian",
+        "capital": "Astana",
+        "population": 20426568
+    },
+    {
+        "name": "Russia",
+        "official": "Russian Federation",
+        "currency_name": "Russian ruble",
+        "currency_symbol": "₽",
+        "languages": "Russian",
+        "capital": "Moscow",
+        "population": 146028325
+    },
+    {
+        "name": "India",
+        "official": "Republic of India",
+        "currency_name": "Indian rupee",
+        "currency_symbol": "₹",
+        "languages": "English, Hindi, Tamil",
+        "capital": "New Delhi",
+        "population": 1417492000
+    },
+    {
+        "name": "British Virgin Islands",
+        "official": "Virgin Islands",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Road Town",
+        "population": 39471
+    },
+    {
+        "name": "Guam",
+        "official": "Guam",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "Chamorro, English, Spanish",
+        "capital": "Hagåtña",
+        "population": 153836
+    },
+    {
+        "name": "Myanmar",
+        "official": "Republic of the Union of Myanmar",
+        "currency_name": "Burmese kyat",
+        "currency_symbol": "Ks",
+        "languages": "Burmese",
+        "capital": "Naypyidaw",
+        "population": 51316756
+    },
+    {
+        "name": "DR Congo",
+        "official": "Democratic Republic of the Congo",
+        "currency_name": "Congolese franc",
+        "currency_symbol": "FC",
+        "languages": "French, Kikongo, Lingala, Tshiluba, Swahili",
+        "capital": "Kinshasa",
+        "population": 112832000
+    },
+    {
+        "name": "Mauritius",
+        "official": "Republic of Mauritius",
+        "currency_name": "Mauritian rupee",
+        "currency_symbol": "₨",
+        "languages": "English, French, Mauritian Creole",
+        "capital": "Port Louis",
+        "population": 1243741
+    },
+    {
+        "name": "Falkland Islands",
+        "official": "Falkland Islands",
+        "currency_name": "Falkland Islands pound",
+        "currency_symbol": "£",
+        "languages": "English",
+        "capital": "Stanley",
+        "population": 3662
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "official": "Commonwealth of the Northern Mariana Islands",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "Carolinian, Chamorro, English",
+        "capital": "Saipan",
+        "population": 47329
+    },
+    {
+        "name": "Ukraine",
+        "official": "Ukraine",
+        "currency_name": "Ukrainian hryvnia",
+        "currency_symbol": "₴",
+        "languages": "Ukrainian",
+        "capital": "Kyiv",
+        "population": 32862000
+    },
+    {
+        "name": "Monaco",
+        "official": "Principality of Monaco",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "French",
+        "capital": "Monaco",
+        "population": 38423
+    },
+    {
+        "name": "Tajikistan",
+        "official": "Republic of Tajikistan",
+        "currency_name": "Tajikistani somoni",
+        "currency_symbol": "ЅМ",
+        "languages": "Russian, Tajik",
+        "capital": "Dushanbe",
+        "population": 10499000
+    },
+    {
+        "name": "Malaysia",
+        "official": "Malaysia",
+        "currency_name": "Malaysian ringgit",
+        "currency_symbol": "RM",
+        "languages": "English, Malay",
+        "capital": "Kuala Lumpur",
+        "population": 34231700
+    },
+    {
+        "name": "Somalia",
+        "official": "Federal Republic of Somalia",
+        "currency_name": "Somali shilling",
+        "currency_symbol": "Sh",
+        "languages": "Arabic, Somali",
+        "capital": "Mogadishu",
+        "population": 19655000
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "official": "Antigua and Barbuda",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Saint John's",
+        "population": 103603
+    },
+    {
+        "name": "Central African Republic",
+        "official": "Central African Republic",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "French, Sango",
+        "capital": "Bangui",
+        "population": 6470307
+    },
+    {
+        "name": "Macau",
+        "official": "Macao Special Administrative Region of the People's Republic of China",
+        "currency_name": "Macanese pataca",
+        "currency_symbol": "P",
+        "languages": "Portuguese, Chinese",
+        "capital": "N/A",
+        "population": 685900
+    },
+    {
+        "name": "Israel",
+        "official": "State of Israel",
+        "currency_name": "Israeli new shekel",
+        "currency_symbol": "₪",
+        "languages": "Arabic, Hebrew",
+        "capital": "Jerusalem",
+        "population": 10134800
+    },
+    {
+        "name": "Nigeria",
+        "official": "Federal Republic of Nigeria",
+        "currency_name": "Nigerian naira",
+        "currency_symbol": "₦",
+        "languages": "English",
+        "capital": "Abuja",
+        "population": 223800000
+    },
+    {
+        "name": "Honduras",
+        "official": "Republic of Honduras",
+        "currency_name": "Honduran lempira",
+        "currency_symbol": "L",
+        "languages": "Spanish",
+        "capital": "Tegucigalpa",
+        "population": 9892632
+    },
+    {
+        "name": "Sierra Leone",
+        "official": "Republic of Sierra Leone",
+        "currency_name": "Leone",
+        "currency_symbol": "Le",
+        "languages": "English",
+        "capital": "Freetown",
+        "population": 9077691
+    },
+    {
+        "name": "Tunisia",
+        "official": "Tunisian Republic",
+        "currency_name": "Tunisian dinar",
+        "currency_symbol": "د.ت",
+        "languages": "Arabic",
+        "capital": "Tunis",
+        "population": 11972169
+    },
+    {
+        "name": "Lithuania",
+        "official": "Republic of Lithuania",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Lithuanian",
+        "capital": "Vilnius",
+        "population": 2894886
+    },
+    {
+        "name": "Iraq",
+        "official": "Republic of Iraq",
+        "currency_name": "Iraqi dinar",
+        "currency_symbol": "ع.د",
+        "languages": "Arabic, Aramaic, Sorani",
+        "capital": "Baghdad",
+        "population": 46118793
+    },
+    {
+        "name": "Switzerland",
+        "official": "Swiss Confederation",
+        "currency_name": "Swiss franc",
+        "currency_symbol": "Fr.",
+        "languages": "French, Swiss German, Italian, Romansh",
+        "capital": "Bern",
+        "population": 9082848
+    },
+    {
+        "name": "Chile",
+        "official": "Republic of Chile",
+        "currency_name": "Chilean peso",
+        "currency_symbol": "$",
+        "languages": "Spanish",
+        "capital": "Santiago",
+        "population": 20206953
+    },
+    {
+        "name": "Taiwan",
+        "official": "Republic of China (Taiwan)",
+        "currency_name": "New Taiwan dollar",
+        "currency_symbol": "$",
+        "languages": "Chinese",
+        "capital": "Taipei",
+        "population": 23317031
+    },
+    {
+        "name": "Vietnam",
+        "official": "Socialist Republic of Vietnam",
+        "currency_name": "Vietnamese đồng",
+        "currency_symbol": "₫",
+        "languages": "Vietnamese",
+        "capital": "Hanoi",
+        "population": 101343800
+    },
+    {
+        "name": "Bangladesh",
+        "official": "People's Republic of Bangladesh",
+        "currency_name": "Bangladeshi taka",
+        "currency_symbol": "৳",
+        "languages": "Bengali",
+        "capital": "Dhaka",
+        "population": 169828911
+    },
+    {
+        "name": "Vanuatu",
+        "official": "Republic of Vanuatu",
+        "currency_name": "Vanuatu vatu",
+        "currency_symbol": "Vt",
+        "languages": "Bislama, English, French",
+        "capital": "Port Vila",
+        "population": 321409
+    },
+    {
+        "name": "Pakistan",
+        "official": "Islamic Republic of Pakistan",
+        "currency_name": "Pakistani rupee",
+        "currency_symbol": "₨",
+        "languages": "English, Urdu",
+        "capital": "Islamabad",
+        "population": 241499431
+    },
+    {
+        "name": "Latvia",
+        "official": "Republic of Latvia",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Latvian",
+        "capital": "Riga",
+        "population": 1829000
+    },
+    {
+        "name": "Malta",
+        "official": "Republic of Malta",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "English, Maltese",
+        "capital": "Valletta",
+        "population": 574250
+    },
+    {
+        "name": "Seychelles",
+        "official": "Republic of Seychelles",
+        "currency_name": "Seychellois rupee",
+        "currency_symbol": "₨",
+        "languages": "Seychellois Creole, English, French",
+        "capital": "Victoria",
+        "population": 122729
+    },
+    {
+        "name": "Montserrat",
+        "official": "Montserrat",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Plymouth",
+        "population": 4386
+    },
+    {
+        "name": "Anguilla",
+        "official": "Anguilla",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "The Valley",
+        "population": 16010
+    },
+    {
+        "name": "Greece",
+        "official": "Hellenic Republic",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Greek",
+        "capital": "Athens",
+        "population": 10400720
+    },
+    {
+        "name": "Czechia",
+        "official": "Czech Republic",
+        "currency_name": "Czech koruna",
+        "currency_symbol": "Kč",
+        "languages": "Czech, Slovak",
+        "capital": "Prague",
+        "population": 10882341
+    },
+    {
+        "name": "Zambia",
+        "official": "Republic of Zambia",
+        "currency_name": "Zambian kwacha",
+        "currency_symbol": "ZK",
+        "languages": "English",
+        "capital": "Lusaka",
+        "population": 19693423
+    },
+    {
+        "name": "Hong Kong",
+        "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+        "currency_name": "Hong Kong dollar",
+        "currency_symbol": "$",
+        "languages": "English, Chinese",
+        "capital": "City of Victoria",
+        "population": 7527500
+    },
+    {
+        "name": "United States",
+        "official": "United States of America",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Washington, D.C.",
+        "population": 340110988
+    },
+    {
+        "name": "Eswatini",
+        "official": "Kingdom of Eswatini",
+        "currency_name": "Swazi lilangeni",
+        "currency_symbol": "L",
+        "languages": "English, Swazi",
+        "capital": "Mbabane",
+        "population": 1235549
+    },
+    {
+        "name": "Slovenia",
+        "official": "Republic of Slovenia",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Slovene",
+        "capital": "Ljubljana",
+        "population": 2130638
+    },
+    {
+        "name": "Caribbean Netherlands",
+        "official": "Bonaire, Sint Eustatius and Saba",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English, Dutch, Papiamento",
+        "capital": "Kralendijk",
+        "population": 31980
+    },
+    {
+        "name": "Maldives",
+        "official": "Republic of the Maldives",
+        "currency_name": "Maldivian rufiyaa",
+        "currency_symbol": ".ރ",
+        "languages": "Maldivian",
+        "capital": "Malé",
+        "population": 515132
+    },
+    {
+        "name": "Ghana",
+        "official": "Republic of Ghana",
+        "currency_name": "Ghanaian cedi",
+        "currency_symbol": "₵",
+        "languages": "English",
+        "capital": "Accra",
+        "population": 33742380
+    },
+    {
+        "name": "Paraguay",
+        "official": "Republic of Paraguay",
+        "currency_name": "Paraguayan guaraní",
+        "currency_symbol": "₲",
+        "languages": "Guaraní, Spanish",
+        "capital": "Asunción",
+        "population": 6109644
+    },
+    {
+        "name": "Mozambique",
+        "official": "Republic of Mozambique",
+        "currency_name": "Mozambican metical",
+        "currency_symbol": "MT",
+        "languages": "Portuguese",
+        "capital": "Maputo",
+        "population": 34090466
+    },
+    {
+        "name": "Palestine",
+        "official": "State of Palestine",
+        "currency_name": "Egyptian pound",
+        "currency_symbol": "E£",
+        "languages": "Arabic",
+        "capital": "Ramallah",
+        "population": 5483450
+    },
+    {
+        "name": "Moldova",
+        "official": "Republic of Moldova",
+        "currency_name": "Moldovan leu",
+        "currency_symbol": "L",
+        "languages": "Romanian",
+        "capital": "Chișinău",
+        "population": 2749076
+    },
+    {
+        "name": "Liberia",
+        "official": "Republic of Liberia",
+        "currency_name": "Liberian dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Monrovia",
+        "population": 5248621
+    },
+    {
+        "name": "Liechtenstein",
+        "official": "Principality of Liechtenstein",
+        "currency_name": "Swiss franc",
+        "currency_symbol": "Fr",
+        "languages": "German",
+        "capital": "Vaduz",
+        "population": 40900
+    },
+    {
+        "name": "Peru",
+        "official": "Republic of Peru",
+        "currency_name": "Peruvian sol",
+        "currency_symbol": "S/ ",
+        "languages": "Aymara, Quechua, Spanish",
+        "capital": "Lima",
+        "population": 34350244
+    },
+    {
+        "name": "Qatar",
+        "official": "State of Qatar",
+        "currency_name": "Qatari riyal",
+        "currency_symbol": "ر.ق",
+        "languages": "Arabic",
+        "capital": "Doha",
+        "population": 3173024
+    },
+    {
+        "name": "Christmas Island",
+        "official": "Territory of Christmas Island",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Flying Fish Cove",
+        "population": 1692
+    },
+    {
+        "name": "Georgia",
+        "official": "Georgia",
+        "currency_name": "lari",
+        "currency_symbol": "₾",
+        "languages": "Georgian",
+        "capital": "Tbilisi",
+        "population": 4000921
+    },
+    {
+        "name": "Ecuador",
+        "official": "Republic of Ecuador",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "Spanish",
+        "capital": "Quito",
+        "population": 18103660
+    },
+    {
+        "name": "Philippines",
+        "official": "Republic of the Philippines",
+        "currency_name": "Philippine peso",
+        "currency_symbol": "₱",
+        "languages": "English, Filipino",
+        "capital": "Manila",
+        "population": 114123600
+    },
+    {
+        "name": "Ethiopia",
+        "official": "Federal Democratic Republic of Ethiopia",
+        "currency_name": "Ethiopian birr",
+        "currency_symbol": "Br",
+        "languages": "Amharic",
+        "capital": "Addis Ababa",
+        "population": 111652998
+    },
+    {
+        "name": "United States Virgin Islands",
+        "official": "Virgin Islands of the United States",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Charlotte Amalie",
+        "population": 87146
+    },
+    {
+        "name": "Syria",
+        "official": "Syrian Arab Republic",
+        "currency_name": "Syrian pound",
+        "currency_symbol": "£",
+        "languages": "Arabic",
+        "capital": "Damascus",
+        "population": 25620000
+    },
+    {
+        "name": "Romania",
+        "official": "Romania",
+        "currency_name": "Romanian leu",
+        "currency_symbol": "lei",
+        "languages": "Romanian",
+        "capital": "Bucharest",
+        "population": 19036031
+    },
+    {
+        "name": "Guatemala",
+        "official": "Republic of Guatemala",
+        "currency_name": "Guatemalan quetzal",
+        "currency_symbol": "Q",
+        "languages": "Spanish",
+        "capital": "Guatemala City",
+        "population": 18079810
+    },
+    {
+        "name": "Nepal",
+        "official": "Federal Democratic Republic of Nepal",
+        "currency_name": "Nepalese rupee",
+        "currency_symbol": "₨",
+        "languages": "Nepali",
+        "capital": "Kathmandu",
+        "population": 29911840
+    },
+    {
+        "name": "Réunion",
+        "official": "Réunion Island",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "French",
+        "capital": "Saint-Denis",
+        "population": 896175
+    },
+    {
+        "name": "Benin",
+        "official": "Republic of Benin",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "French",
+        "capital": "Porto-Novo",
+        "population": 13224860
+    },
+    {
+        "name": "Kuwait",
+        "official": "State of Kuwait",
+        "currency_name": "Kuwaiti dinar",
+        "currency_symbol": "د.ك",
+        "languages": "Arabic",
+        "capital": "Kuwait City",
+        "population": 4881254
+    },
+    {
+        "name": "Suriname",
+        "official": "Republic of Suriname",
+        "currency_name": "Surinamese dollar",
+        "currency_symbol": "$",
+        "languages": "Dutch",
+        "capital": "Paramaribo",
+        "population": 616500
+    },
+    {
+        "name": "New Caledonia",
+        "official": "New Caledonia",
+        "currency_name": "CFP franc",
+        "currency_symbol": "₣",
+        "languages": "French",
+        "capital": "Nouméa",
+        "population": 264596
+    },
+    {
+        "name": "Sudan",
+        "official": "Republic of the Sudan",
+        "currency_name": "Sudanese pound",
+        "currency_symbol": "ج.س",
+        "languages": "Arabic, English",
+        "capital": "Khartoum",
+        "population": 51662000
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "official": "United States Minor Outlying Islands",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Washington DC",
+        "population": 0
+    },
+    {
+        "name": "Chad",
+        "official": "Republic of Chad",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "Arabic, French",
+        "capital": "N'Djamena",
+        "population": 19340757
+    },
+    {
+        "name": "Uruguay",
+        "official": "Oriental Republic of Uruguay",
+        "currency_name": "Uruguayan peso",
+        "currency_symbol": "$",
+        "languages": "Spanish",
+        "capital": "Montevideo",
+        "population": 3499451
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "official": "Bosnia and Herzegovina",
+        "currency_name": "Bosnia and Herzegovina convertible mark",
+        "currency_symbol": "KM",
+        "languages": "Bosnian, Croatian, Serbian",
+        "capital": "Sarajevo",
+        "population": 3422000
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "official": "Republic of Trinidad and Tobago",
+        "currency_name": "Trinidad and Tobago dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Port of Spain",
+        "population": 1367764
+    },
+    {
+        "name": "Sweden",
+        "official": "Kingdom of Sweden",
+        "currency_name": "Swedish krona",
+        "currency_symbol": "kr",
+        "languages": "Swedish",
+        "capital": "Stockholm",
+        "population": 10605098
+    },
+    {
+        "name": "Iceland",
+        "official": "Iceland",
+        "currency_name": "Icelandic króna",
+        "currency_symbol": "kr",
+        "languages": "Icelandic",
+        "capital": "Reykjavik",
+        "population": 391810
+    },
+    {
+        "name": "Haiti",
+        "official": "Republic of Haiti",
+        "currency_name": "Haitian gourde",
+        "currency_symbol": "G",
+        "languages": "French, Haitian Creole",
+        "capital": "Port-au-Prince",
+        "population": 11867032
+    },
+    {
+        "name": "Brunei",
+        "official": "Nation of Brunei, Abode of Peace",
+        "currency_name": "Brunei dollar",
+        "currency_symbol": "$",
+        "languages": "Malay",
+        "capital": "Bandar Seri Begawan",
+        "population": 455500
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "official": "Territory of the French Southern and Antarctic Lands",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "French",
+        "capital": "Port-aux-Français",
+        "population": 400
+    },
+    {
+        "name": "Guernsey",
+        "official": "Bailiwick of Guernsey",
+        "currency_name": "British pound",
+        "currency_symbol": "£",
+        "languages": "English, French, Guernésiais",
+        "capital": "St. Peter Port",
+        "population": 64781
+    },
+    {
+        "name": "Croatia",
+        "official": "Republic of Croatia",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Croatian",
+        "capital": "Zagreb",
+        "population": 3866233
+    },
+    {
+        "name": "Saint Barthélemy",
+        "official": "Collectivity of Saint Barthélemy",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "French",
+        "capital": "Gustavia",
+        "population": 10562
+    },
+    {
+        "name": "Mongolia",
+        "official": "Mongolia",
+        "currency_name": "Mongolian tögrög",
+        "currency_symbol": "₮",
+        "languages": "Mongolian",
+        "capital": "Ulan Bator",
+        "population": 3544835
+    },
+    {
+        "name": "Aruba",
+        "official": "Aruba",
+        "currency_name": "Aruban florin",
+        "currency_symbol": "ƒ",
+        "languages": "Dutch, Papiamento",
+        "capital": "Oranjestad",
+        "population": 107566
+    },
+    {
+        "name": "Republic of the Congo",
+        "official": "Republic of the Congo",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "French, Kikongo, Lingala",
+        "capital": "Brazzaville",
+        "population": 6142180
+    },
+    {
+        "name": "São Tomé and Príncipe",
+        "official": "Democratic Republic of São Tomé and Príncipe",
+        "currency_name": "São Tomé and Príncipe dobra",
+        "currency_symbol": "Db",
+        "languages": "Portuguese",
+        "capital": "São Tomé",
+        "population": 209607
+    },
+    {
+        "name": "Yemen",
+        "official": "Republic of Yemen",
+        "currency_name": "Yemeni rial",
+        "currency_symbol": "﷼",
+        "languages": "Arabic",
+        "capital": "Sana'a",
+        "population": 32684503
+    },
+    {
+        "name": "Equatorial Guinea",
+        "official": "Republic of Equatorial Guinea",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "French, Portuguese, Spanish",
+        "capital": "Ciudad de la Paz",
+        "population": 1668768
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "official": "Svalbard og Jan Mayen",
+        "currency_name": "krone",
+        "currency_symbol": "kr",
+        "languages": "Norwegian",
+        "capital": "Longyearbyen",
+        "population": 2530
+    },
+    {
+        "name": "Colombia",
+        "official": "Republic of Colombia",
+        "currency_name": "Colombian peso",
+        "currency_symbol": "$",
+        "languages": "Spanish",
+        "capital": "Bogotá",
+        "population": 53057212
+    },
+    {
+        "name": "Guinea-Bissau",
+        "official": "Republic of Guinea-Bissau",
+        "currency_name": "West African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "Portuguese, Upper Guinea Creole",
+        "capital": "Bissau",
+        "population": 1781308
+    },
+    {
+        "name": "Kiribati",
+        "official": "Independent and Sovereign Republic of Kiribati",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "languages": "English, Gilbertese",
+        "capital": "South Tarawa",
+        "population": 120740
+    },
+    {
+        "name": "Germany",
+        "official": "Federal Republic of Germany",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "German",
+        "capital": "Berlin",
+        "population": 83491249
+    },
+    {
+        "name": "Thailand",
+        "official": "Kingdom of Thailand",
+        "currency_name": "Thai baht",
+        "currency_symbol": "฿",
+        "languages": "Thai",
+        "capital": "Bangkok",
+        "population": 65859640
+    },
+    {
+        "name": "Isle of Man",
+        "official": "Isle of Man",
+        "currency_name": "British pound",
+        "currency_symbol": "£",
+        "languages": "English, Manx",
+        "capital": "Douglas",
+        "population": 84530
+    },
+    {
+        "name": "Bhutan",
+        "official": "Kingdom of Bhutan",
+        "currency_name": "Bhutanese ngultrum",
+        "currency_symbol": "Nu.",
+        "languages": "Dzongkha",
+        "capital": "Thimphu",
+        "population": 784043
+    },
+    {
+        "name": "Gabon",
+        "official": "Gabonese Republic",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "French",
+        "capital": "Libreville",
+        "population": 2469296
+    },
+    {
+        "name": "Sint Maarten",
+        "official": "Sint Maarten",
+        "currency_name": "Netherlands Antillean guilder",
+        "currency_symbol": "ƒ",
+        "languages": "English, French, Dutch",
+        "capital": "Philipsburg",
+        "population": 41349
+    },
+    {
+        "name": "Sri Lanka",
+        "official": "Democratic Socialist Republic of Sri Lanka",
+        "currency_name": "Sri Lankan rupee",
+        "currency_symbol": "Rs  රු",
+        "languages": "Sinhala, Tamil",
+        "capital": "Sri Jayawardenepura Kotte",
+        "population": 21763170
+    },
+    {
+        "name": "Albania",
+        "official": "Republic of Albania",
+        "currency_name": "Albanian lek",
+        "currency_symbol": "L",
+        "languages": "Albanian",
+        "capital": "Tirana",
+        "population": 2363314
+    },
+    {
+        "name": "New Zealand",
+        "official": "New Zealand",
+        "currency_name": "New Zealand dollar",
+        "currency_symbol": "$",
+        "languages": "English, Māori, New Zealand Sign Language",
+        "capital": "Wellington",
+        "population": 5324700
+    },
+    {
+        "name": "Algeria",
+        "official": "People's Democratic Republic of Algeria",
+        "currency_name": "Algerian dinar",
+        "currency_symbol": "د.ج",
+        "languages": "Arabic",
+        "capital": "Algiers",
+        "population": 47400000
+    },
+    {
+        "name": "San Marino",
+        "official": "Republic of San Marino",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Italian",
+        "capital": "City of San Marino",
+        "population": 34132
+    },
+    {
+        "name": "Micronesia",
+        "official": "Federated States of Micronesia",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Palikir",
+        "population": 105564
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "official": "Saint Helena, Ascension and Tristan da Cunha",
+        "currency_name": "Pound sterling",
+        "currency_symbol": "£",
+        "languages": "English",
+        "capital": "Jamestown",
+        "population": 5651
+    },
+    {
+        "name": "Curaçao",
+        "official": "Country of Curaçao",
+        "currency_name": "Netherlands Antillean guilder",
+        "currency_symbol": "ƒ",
+        "languages": "English, Dutch, Papiamento",
+        "capital": "Willemstad",
+        "population": 156115
+    },
+    {
+        "name": "El Salvador",
+        "official": "Republic of El Salvador",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "Spanish",
+        "capital": "San Salvador",
+        "population": 6029976
+    },
+    {
+        "name": "Martinique",
+        "official": "Martinique",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "French",
+        "capital": "Fort-de-France",
+        "population": 349925
+    },
+    {
+        "name": "Nauru",
+        "official": "Republic of Nauru",
+        "currency_name": "Australian dollar",
+        "currency_symbol": "$",
+        "languages": "English, Nauru",
+        "capital": "Yaren",
+        "population": 11680
+    },
+    {
+        "name": "Vatican City",
+        "official": "Vatican City State",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Italian, Latin",
+        "capital": "Vatican City",
+        "population": 882
+    },
+    {
+        "name": "Grenada",
+        "official": "Grenada",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "St. George's",
+        "population": 109021
+    },
+    {
+        "name": "Tonga",
+        "official": "Kingdom of Tonga",
+        "currency_name": "Tongan paʻanga",
+        "currency_symbol": "T$",
+        "languages": "English, Tongan",
+        "capital": "Nuku'alofa",
+        "population": 100179
+    },
+    {
+        "name": "Burundi",
+        "official": "Republic of Burundi",
+        "currency_name": "Burundian franc",
+        "currency_symbol": "Fr",
+        "languages": "French, Kirundi",
+        "capital": "Gitega",
+        "population": 12332788
+    },
+    {
+        "name": "Samoa",
+        "official": "Independent State of Samoa",
+        "currency_name": "Samoan tālā",
+        "currency_symbol": "T",
+        "languages": "English, Samoan",
+        "capital": "Apia",
+        "population": 205557
+    },
+    {
+        "name": "Denmark",
+        "official": "Kingdom of Denmark",
+        "currency_name": "Danish krone",
+        "currency_symbol": "kr",
+        "languages": "Danish",
+        "capital": "Copenhagen",
+        "population": 6011488
+    },
+    {
+        "name": "Venezuela",
+        "official": "Bolivarian Republic of Venezuela",
+        "currency_name": "Venezuelan bolívar soberano",
+        "currency_symbol": "Bs.S.",
+        "languages": "Spanish",
+        "capital": "Caracas",
+        "population": 28517000
+    },
+    {
+        "name": "Austria",
+        "official": "Republic of Austria",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "German",
+        "capital": "Vienna",
+        "population": 9200931
+    },
+    {
+        "name": "Slovakia",
+        "official": "Slovak Republic",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Slovak",
+        "capital": "Bratislava",
+        "population": 5413813
+    },
+    {
+        "name": "China",
+        "official": "People's Republic of China",
+        "currency_name": "Chinese yuan",
+        "currency_symbol": "¥",
+        "languages": "Chinese",
+        "capital": "Beijing",
+        "population": 1408280000
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "official": "British Indian Ocean Territory",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Diego Garcia",
+        "population": 0
+    },
+    {
+        "name": "French Polynesia",
+        "official": "French Polynesia",
+        "currency_name": "CFP franc",
+        "currency_symbol": "₣",
+        "languages": "French",
+        "capital": "Papeetē",
+        "population": 279500
+    },
+    {
+        "name": "Bolivia",
+        "official": "Plurinational State of Bolivia",
+        "currency_name": "Bolivian boliviano",
+        "currency_symbol": "Bs.",
+        "languages": "Aymara, Guaraní, Quechua, Spanish",
+        "capital": "Sucre",
+        "population": 11365333
+    },
+    {
+        "name": "Antarctica",
+        "official": "Antarctica",
+        "currency_name": "N/A",
+        "currency_symbol": "N/A",
+        "languages": "N/A",
+        "capital": "N/A",
+        "population": 1300
+    },
+    {
+        "name": "Libya",
+        "official": "State of Libya",
+        "currency_name": "Libyan dinar",
+        "currency_symbol": "ل.د",
+        "languages": "Arabic",
+        "capital": "Tripoli",
+        "population": 7459000
+    },
+    {
+        "name": "Estonia",
+        "official": "Republic of Estonia",
+        "currency_name": "euro",
+        "currency_symbol": "€",
+        "languages": "Estonian",
+        "capital": "Tallinn",
+        "population": 1369995
+    },
+    {
+        "name": "Cook Islands",
+        "official": "Cook Islands",
+        "currency_name": "Cook Islands dollar",
+        "currency_symbol": "$",
+        "languages": "English, Cook Islands Māori",
+        "capital": "Avarua",
+        "population": 15040
+    },
+    {
+        "name": "Puerto Rico",
+        "official": "Commonwealth of Puerto Rico",
+        "currency_name": "United States dollar",
+        "currency_symbol": "$",
+        "languages": "English, Spanish",
+        "capital": "San Juan",
+        "population": 3203295
+    },
+    {
+        "name": "Belarus",
+        "official": "Republic of Belarus",
+        "currency_name": "Belarusian ruble",
+        "currency_symbol": "Br",
+        "languages": "Belarusian, Russian",
+        "capital": "Minsk",
+        "population": 9109280
+    },
+    {
+        "name": "Faroe Islands",
+        "official": "Faroe Islands",
+        "currency_name": "Danish krone",
+        "currency_symbol": "kr",
+        "languages": "Danish, Faroese",
+        "capital": "Tórshavn",
+        "population": 54885
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "official": "Saint Vincent and the Grenadines",
+        "currency_name": "Eastern Caribbean dollar",
+        "currency_symbol": "$",
+        "languages": "English",
+        "capital": "Kingstown",
+        "population": 110872
+    },
+    {
+        "name": "Dominican Republic",
+        "official": "Dominican Republic",
+        "currency_name": "Dominican peso",
+        "currency_symbol": "$",
+        "languages": "Spanish",
+        "capital": "Santo Domingo",
+        "population": 10771504
+    },
+    {
+        "name": "Hungary",
+        "official": "Hungary",
+        "currency_name": "Hungarian forint",
+        "currency_symbol": "Ft",
+        "languages": "Hungarian",
+        "capital": "Budapest",
+        "population": 9539502
+    },
+    {
+        "name": "Bahrain",
+        "official": "Kingdom of Bahrain",
+        "currency_name": "Bahraini dinar",
+        "currency_symbol": ".د.ب",
+        "languages": "Arabic",
+        "capital": "Manama",
+        "population": 1594654
+    },
+    {
+        "name": "Cameroon",
+        "official": "Republic of Cameroon",
+        "currency_name": "Central African CFA franc",
+        "currency_symbol": "Fr",
+        "languages": "English, French",
+        "capital": "Yaoundé",
+        "population": 29442327
+    },
+    {
+        "name": "Canada",
+        "official": "Canada",
+        "currency_name": "Canadian dollar",
+        "currency_symbol": "$",
+        "languages": "English, French",
+        "capital": "Ottawa",
+        "population": 41651653
+    },
+    {
+        "name": "Eritrea",
+        "official": "State of Eritrea",
+        "currency_name": "Eritrean nakfa",
+        "currency_symbol": "Nfk",
+        "languages": "Arabic, English, Tigrinya",
+        "capital": "Asmara",
+        "population": 3607000
+    },
+    {
+        "name": "Singapore",
+        "official": "Republic of Singapore",
+        "currency_name": "Singapore dollar",
+        "currency_symbol": "$",
+        "languages": "English, Chinese, Malay, Tamil",
+        "capital": "Singapore",
+        "population": 6110200
+    },
+    {
+        "name": "Costa Rica",
+        "official": "Republic of Costa Rica",
+        "currency_name": "Costa Rican colón",
+        "currency_symbol": "₡",
+        "languages": "Spanish",
+        "capital": "San José",
+        "population": 5309625
+    },
+    {
+        "name": "Serbia",
+        "official": "Republic of Serbia",
+        "currency_name": "Serbian dinar",
+        "currency_symbol": "дин.",
+        "languages": "Serbian",
+        "capital": "Belgrade",
+        "population": 6567783
+    },
+    {
+        "name": "Poland",
+        "official": "Republic of Poland",
+        "currency_name": "Polish złoty",
+        "currency_symbol": "zł",
+        "languages": "Polish",
+        "capital": "Warsaw",
+        "population": 37392000
+    },
+    {
+        "name": "Jordan",
+        "official": "Hashemite Kingdom of Jordan",
+        "currency_name": "Jordanian dinar",
+        "currency_symbol": "د.ا",
+        "languages": "Arabic",
+        "capital": "Amman",
+        "population": 11734000
+    }
+]
